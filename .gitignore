@@ -1,0 +1,23 @@
+# Rust
+**/target/
+
+# Node
+**/node_modules/
+**/dist/
+*.local
+
+# Env / secrets
+.env
+.env.local
+*.env
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
